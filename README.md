@@ -1,6 +1,6 @@
 # task-tracker
 
-A task tracker application using React components, props, state, hooks, etc. hosted locally in a mock JSON server
+A task tracker application created using React components, props, state, hooks, etc. hosted locally in a mock JSON server
 
 # Getting Started with Create React App
 
