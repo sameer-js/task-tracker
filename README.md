@@ -1,3 +1,7 @@
+# task-tracker
+
+A task tracker application using React components, props, state, hooks, etc. hosted locally in a mock JSON server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
